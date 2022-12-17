@@ -74,6 +74,9 @@
               "browserTarget": "ANGULAR-DEMO-4201:build:development"
             }
           },
+          "options": {
+            "port": 4201
+        },
           "defaultConfiguration": "development"
         },
         "extract-i18n": {
